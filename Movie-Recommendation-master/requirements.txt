@@ -1,0 +1,12 @@
+flask
+pandas
+numpy
+scikit-learn
+surprise
+requests
+python-dotenv
+flask
+python-dotenv
+pandas
+requests
+gunicorn  # Required for production WSGI server
